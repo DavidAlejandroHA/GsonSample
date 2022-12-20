@@ -1,0 +1,2 @@
+# GsonSample
+Práctica de GsonSample
